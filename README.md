@@ -7,5 +7,6 @@ In this challenge, I have created a password regex tutorial gist. This password 
 
 Enjoy and feel free to ask any questions!
 
+Github Repository: https://github.com/minikozort/Password-Regex-Tutorial.git
 Deployed Github Gist: https://gist.github.com/minikozort/74f686920da289a06d1e950a7209e6d9
 
